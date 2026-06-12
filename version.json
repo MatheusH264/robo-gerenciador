@@ -1,9 +1,9 @@
 {
     "launcher": "1.1",
     "robos": {
-        "BLL": "1.0",
-        "BNC": "1.0",
-        "Licitanet": "1.0",
-        "BBNet": "1.0"
+        "BLL": "1.1",
+        "BNC": "1.1",
+        "Licitanet": "1.1",
+        "BBNet": "1.1"
     }
 }
